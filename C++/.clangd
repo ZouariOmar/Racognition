@@ -1,0 +1,6 @@
+CompileFlags:
+  Add: [
+    -I/usr/include/qt6,
+    -I/usr/include/opencv4,
+  ]
+
