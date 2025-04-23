@@ -31,6 +31,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
+  <a href="#screenshots">Screenshots</a>  •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
@@ -80,6 +81,11 @@ python face_recognise.py         # Run the project (or choose another .py file)
 ## Download
 
 You can [download](https://github.com/ZouariOmar/Racognition/releases) the latest installable version of Racognition for macOS and Linux.
+
+## Screenshots
+
+![face1.png](Imgs/face1.png)
+![face2.png](Imgs/face2.png)
 
 ## Emailware
 

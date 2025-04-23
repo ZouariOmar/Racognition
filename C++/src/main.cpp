@@ -24,7 +24,7 @@
 int main(void) {
   FaceRecognizer fr;
 
-  // Recgnize mode (using opencv camera)
+  // Recgnize mode(using opencv camera) | Press `ESC` to exit
   // fr.load();
   // fr.captureFrame();
 

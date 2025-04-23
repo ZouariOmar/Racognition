@@ -12,9 +12,9 @@
 //? Pre-Processor prototype declaration part
 #ifndef __FACE_RECOGNITION_HPP__
 #define __FACE_RECOGNITION_HPP__
-#define __FACES_DEFAULT_DIR__ "/home/zouari_omar/Documents/Daily/Projects/Racognizea/Faces"
-#define __CASCADE_DEFAULT_MODEL__ "/home/zouari_omar/Documents/Daily/Projects/Racognizea/Models/haarcascade_frontalface_default.xml"
-#define __FACE_RECOGNIZER_DEFAULT_MODEL__ "/home/zouari_omar/Documents/Daily/Projects/Racognizea/Models/face_recognizer.yaml"
+#define __FACES_DEFAULT_DIR__ "../Faces"
+#define __CASCADE_DEFAULT_MODEL__ "../Models/haarcascade_frontalface_default.xml"
+#define __FACE_RECOGNIZER_DEFAULT_MODEL__ "../Models/face_recognizer.yaml"
 #define __CAMERA_DEFAULT_FPS__ 30 // ~33 times per second - 30 milliseconds
 #define __CONFIDENCE_DEFAULT_SCORE__ 0.2
 
